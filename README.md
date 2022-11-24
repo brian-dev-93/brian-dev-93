@@ -12,9 +12,6 @@ Olá, Tenho 29 anos e estou em transição de carreira. <br>Atualmente cursando 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=brian-dev-93&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-dev-93&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=brian-dev-93&icon=2&color=12)](https://visitcount.itsvg.in)
 
