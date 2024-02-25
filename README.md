@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, Tenho 30 anos e estou em transição de carreira. <br>Atualmente cursando Cloud Fullstack e Fullstack JavaScript, em busca de uma oportunidade que auxilie em minha qualificação. <br>Sou comunicativo, possuo grande disposição para aprender e facilidade para trabalhar em equipe.
+Olá, Tenho 30 anos e estou em transição de carreira. <br>Atualmente cursando o segundo semestre de Ánalise e Desenvolvimento de sistemas e uma Formação em Java pela DIO, em busca de uma oportunidade que auxilie em minha qualificação. <br>Sou comunicativo, possuo grande disposição para aprender e facilidade para trabalhar em equipe.
 
 
 ## 🌐 Socials:
